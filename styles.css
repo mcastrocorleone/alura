@@ -1,0 +1,73 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px 0; /* Agrega un padding superior e inferior al body */
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start; /* Cambia de center a flex-start para alinear al inicio */
+    min-height: 100vh;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #0008ff;
+    color: white;
+    width: 100%;
+    text-align: center;
+    padding: 1em 0;
+}
+
+main {
+    width: 90%;
+    max-width: 800px;
+    background-color: white;
+    padding: 2em;
+    margin-top: 20px; /* Agrega un margen superior para separar del header */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+/* El resto de tu CSS puede permanecer igual */
+
+
+.input-section, .output-section {
+    margin-bottom: 1em;
+}
+
+textarea {
+    width: 100%;
+    max-width: 780px; /* Limita el ancho máximo del textarea */
+    height: 150px;
+    padding: 1em;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 1em;
+    resize: none;
+}
+
+textarea:focus {
+    border-color: #1188f0;
+    outline: none;
+}
+
+.buttons-section {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 1em;
+}
+
+button {
+    padding: 0.5em 2em;
+    border: none;
+    border-radius: 4px;
+    background-color: #0d00ff;
+    color: white;
+    font-size: 1em;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #1cb3d5;
+}
