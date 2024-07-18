@@ -42,7 +42,7 @@ Si quieres contribuir a este proyecto, sigue estos pasos:
 
 ## Créditos
 
-Este proyecto fue desarrollado por [Mario Castro]([https://github.com/mcastrocorleone] como parte de un proyecto personal o educativo.
+Este proyecto fue desarrollado por [Mario Castro] [https://github.com/mcastrocorleone] como parte de un proyecto personal o educativo.
 
 ## Licencia
 
