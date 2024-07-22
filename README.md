@@ -10,14 +10,6 @@ Este proyecto consiste en una aplicación web simple para encriptar y desencript
 
 - **JavaScript:** Utiliza JavaScript para manejar la lógica de encriptación y desencriptación directamente en el navegador del cliente.
 
-## Demo
-
-Puedes ver una demostración en vivo del proyecto [aquí](link-to-demo).
-
-## Capturas de Pantalla
-
-![Captura de pantalla 1](screenshot1.png)
-![Captura de pantalla 2](screenshot2.png)
 
 ## Instalación
 
